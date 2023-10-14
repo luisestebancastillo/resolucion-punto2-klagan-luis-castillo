@@ -1,4 +1,4 @@
-package com.inditex.wikipedia.config;
+package com.inditex.wikipedia.config.hooks;
 
 import com.inditex.wikipedia.actors.Luis;
 import io.cucumber.java.After;
