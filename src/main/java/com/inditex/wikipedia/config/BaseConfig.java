@@ -1,5 +1,6 @@
-package com.inditex.wikipedia.config.hooks;
+package com.inditex.wikipedia.config;
 
+import com.inditex.wikipedia.config.hooks.Hooks;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;

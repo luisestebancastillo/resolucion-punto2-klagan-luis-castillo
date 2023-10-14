@@ -1,10 +1,9 @@
 package com.inditex.wikipedia.tasks;
 
-import com.inditex.wikipedia.config.hooks.BaseConfig;
+import com.inditex.wikipedia.config.BaseConfig;
 import com.inditex.wikipedia.ui.PaginaGoogle;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
-import net.serenitybdd.screenplay.actions.Click;
 import net.serenitybdd.screenplay.actions.Enter;
 import org.openqa.selenium.Keys;
 
